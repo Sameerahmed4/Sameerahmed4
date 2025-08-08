@@ -64,10 +64,9 @@ Cloud Security · SIEM Tools · IAM · AWS/GCP Basics
 
 ## 🤝 Let's Connect
 
-- 📧 Email: sameer.it.dev@gmail.com *(example – replace with your real ID)*  
-- 💼 LinkedIn: [linkedin.com/in/sameerahmed](https://www.linkedin.com/in/sameerahmed) *(if available)*  
-- 📂 GitHub: [github.com/sameerahmeddev](https://github.com/sameerahmeddev)
-
+- 📧 Email:    
+- 💼 LinkedIn: 
+- 📂 GitHub: github.com/Sameerahmed4
 ---
 
 ## 💭 My Tech Philosophy
